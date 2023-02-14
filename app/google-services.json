@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553806542014",
+    "project_id": "sehai-firebase-chat",
+    "storage_bucket": "sehai-firebase-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553806542014:android:bb40673a8cd35bc543daef",
+        "android_client_info": {
+          "package_name": "com.example.sehai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553806542014-94ehsnufrd7qa0or5067fr24660lpr47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRWDH7KR8f-0b6F6NVVnpda2jVr5KrRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553806542014-94ehsnufrd7qa0or5067fr24660lpr47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
